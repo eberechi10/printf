@@ -9,6 +9,7 @@
  * @precision: Precision specification
  * @size: Size specifier
  * Return: Number of chars printed
+ * alx printf project
  */
 int print_char(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
