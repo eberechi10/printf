@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *
+ * printf project
  * Return: Always 0
  */
 int main(void)
